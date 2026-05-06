@@ -2,7 +2,7 @@
 
 An interactive football player statistics dashboard built with Python and Dash, featuring data from the 2025/26 season.
 
-🔗 **Live App:** https://your-app-name.onrender.com
+🔗 **Live App:** https://football-player-stats-app.onrender.com/
 
 ## Features
 
